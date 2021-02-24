@@ -1,0 +1,4 @@
+C:\Users\lecop\Desktop\Boot+camp\Localiza\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\lecop\Desktop\Boot+camp\Localiza\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\lecop\Desktop\Boot+camp\Localiza\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\lecop\Desktop\Boot+camp\Localiza\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
